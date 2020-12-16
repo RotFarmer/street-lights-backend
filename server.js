@@ -15,3 +15,6 @@ app.listen(port, () =>
   console.log(`Listening on
 port: ${port}.`)
 );
+
+// RUN THIS
+// npm install dotenv --save-dev
